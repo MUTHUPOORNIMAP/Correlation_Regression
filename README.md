@@ -24,6 +24,16 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output
+![image](https://github.com/user-attachments/assets/73eae129-65f3-46f7-b259-25f5f6dec01d)
 
-# Output 
+![image](https://github.com/user-attachments/assets/fb119bbd-5de3-4972-8dd1-ef583698c82c)
+
+
+
+
+
+
+# Result 
+The correlation and regression for data analysis have been calculated using
+probability distribution successfully
